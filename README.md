@@ -1,6 +1,6 @@
 # MLOps Assignment 2
 
-This project fine-tunes `distilbert-base-cased` for Goodreads book review genre classification using a Kaggle GPU notebook. The workflow uses Hugging Face Transformers for model training, Weights & Biases for experiment tracking and artifact logging, and Hugging Face Hub for model deployment.
+This project fine-tunes `distilbert-base-cased` for Goodreads book review genre classification using a Kaggle GPU notebook. The workflow uses Hugging Face Transformers for model training, Weights & Biases for experiment tracking and artifact logging, and Hugging Face Hub for model deployment. Please check the notebook in kaggle.
 
 ## Setup
 
